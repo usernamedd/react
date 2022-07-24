@@ -1,0 +1,14 @@
+{
+	"files": [
+		{
+			"path": "packages/react-dom/src/client/ReactDOM.js",
+			"bookmarks": [
+				{
+					"line": 154,
+					"column": 20,
+					"label": ""
+				}
+			]
+		}
+	]
+}

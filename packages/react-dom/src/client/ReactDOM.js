@@ -146,7 +146,12 @@ const Internals = {
     batchedUpdates,
   ],
 };
-
+/**
+ *
+ * @param {*} container 容器
+ * @param {*} options
+ * @returns
+ */
 function createRoot(
   container: Element | Document | DocumentFragment,
   options?: CreateRootOptions,
