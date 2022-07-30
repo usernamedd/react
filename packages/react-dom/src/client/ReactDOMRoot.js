@@ -242,7 +242,10 @@ export function createRoot(
 
   return new ReactDOMRoot(root);
 }
-
+/**
+ * 看起来这是ReactDOMRoot脱水版本
+ * @param {*} internalRoot
+ */
 function ReactDOMHydrationRoot(internalRoot: FiberRoot) {
   this._internalRoot = internalRoot;
 }

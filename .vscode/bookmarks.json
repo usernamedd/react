@@ -9,6 +9,61 @@
 					"label": ""
 				}
 			]
+		},
+		{
+			"path": "packages/react-dom/src/client/ReactDOMRoot.js",
+			"bookmarks": [
+				{
+					"line": 88,
+					"column": 16,
+					"label": "ReactDOMRoot构造函数"
+				},
+				{
+					"line": 92,
+					"column": 37,
+					"label": "ReactDOMRoot 的 render方法"
+				},
+				{
+					"line": 166,
+					"column": 22,
+					"label": "reactDOMRoot . createRoot"
+				}
+			]
+		},
+		{
+			"path": "packages/react-dom/src/client/ReactDOMLegacy.js",
+			"bookmarks": [
+				{
+					"line": 312,
+					"column": 23,
+					"label": "render"
+				}
+			]
+		},
+		{
+			"path": "packages/react-reconciler/src/ReactFiberReconciler.new.js",
+			"bookmarks": [
+				{
+					"line": 246,
+					"column": 14,
+					"label": "createContainer"
+				},
+				{
+					"line": 320,
+					"column": 27,
+					"label": "updateContainer"
+				}
+			]
+		},
+		{
+			"path": "packages/react-reconciler/src/ReactFiberRoot.new.js",
+			"bookmarks": [
+				{
+					"line": 128,
+					"column": 31,
+					"label": "createFiberRoot"
+				}
+			]
 		}
 	]
 }
